@@ -1,0 +1,2 @@
+English:Asp.Net Error trapping mechanism with 8.0 MVC modeling. A code that I have written in the error catching mechanism in the cleanest and most sustainable form Jul. When it receives an error, the layout section remains fixed and the error message is displayed in the index section.
+Türkçe: Asp.Net 8.0 MVC modellemesiyle hata yakalama mekanızması. Hata yakalama mekanizmaında en temiz ve sürdürülebilir haliyle yazdığım bir kod. Hata aldığında layout kısmı sabit kalıyor ve index kısmında hata mesajı gösteriliyor.
